@@ -1,0 +1,6 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "ReachCircles",
+  "mainClass": "de.mcmdev.reachcircles.ReachCirclesAddon"
+}
